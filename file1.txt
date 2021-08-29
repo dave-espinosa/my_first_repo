@@ -1,1 +1,3 @@
-this is file 1, shoould be in master
+this is file 1, shoould be in master, wait this line has been added in branch2
+
+and I wan to also modify this line from branch2
